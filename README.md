@@ -1,8 +1,6 @@
 # PXRD-peak-pos
-* Cellulose Ibeta XRD peak positions were calculated from the general interplanar spacing (d) equation (triclic). Another from the monoclinic eqn.
+* Cellulose Ibeta XRD peak positions were calculated to see the trend during Rietveld refinement.
 * The peak position changes upon variation in lattice parameter (a, b, gamma) were plotted. 
-
-* This was developped to check the Rietveld analysis results.
 * Reference for the parameters used: J. AM. CHEM. SOC. 2002, 124, 9074-9082 
 
 <div align="center">
